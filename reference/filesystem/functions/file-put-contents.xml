@@ -17,7 +17,7 @@
    <methodparam choice="opt"><type>resource</type><parameter>context</parameter></methodparam>
   </methodsynopsis>
   <para> 
-   This function is identical to calling <function>fopen</function>, 
+   This function is mostly identical to calling <function>fopen</function>, 
    <function>fwrite</function> and <function>fclose</function> successively
    to write data to a file.
   </para>
